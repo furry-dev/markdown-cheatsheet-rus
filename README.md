@@ -1,4 +1,4 @@
-This is a translation of this [repository](https://github.com/tchapi/markdown-cheatsheet) by @tchapi
+This is a translation of this [repository](https://github.com/tchapi/markdown-cheatsheet) by [@tchapi](https://github.com/tchapi)
 
 Шпаргалка по Markdown<a name="TOP"></a>
 ===================
